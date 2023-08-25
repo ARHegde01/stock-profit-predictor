@@ -12,8 +12,10 @@
 - Feature Engineering: Calculates rolling averages and trends for various time frames to enhance the prediction model.
 - Profit Likelihood Analysis: Provides likelihood estimates of making a profit over different investment horizons such as 2 weeks, 1 month, or 1 quarter.
 
-  ### Prerequisites:
-  Before running the Stock Price Predictor, make sure you have the following installed:
+---
+
+### Prerequisites:
+Before running the Stock Price Predictor, make sure you have the following installed:
 
 - Python (version 3.7 or above)
 - yfinance library
@@ -21,15 +23,21 @@
 - sklearn library
 - matplotlib library
 
+---
+
 ### Installation:
 - Clone the repository: git clone https://github.com/your-username/Stock-Profit-Predictor.git
 - Install the required dependencies: pip install -r requirements.txt
+
+---
 
 ### Usage:
 - Run the program: python stock_predictor.py
 - Input the desired stock ticker symbol when prompted.
 - Interact with the data plots as they appear.
 - Review the predictions and profit likelihood estimates displayed.
+
+---
 
 ### Practical Uses:
 - Stock Market Analysis: Helps in gauging the short-term movements of specific stocks or market indices.
